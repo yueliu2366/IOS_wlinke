@@ -1,0 +1,1245 @@
+Twlinke
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D7401890000000000000110
+t1299448201
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54D18C00000000003532A0
+t1297404300
+s3486368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h
+c000000004D54D1DD0000000000001777
+t1297404381
+s6007
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h
+c000000004D54D1DD0000000000006506
+t1297404381
+s25862
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D54D49500000000000000C4
+t1297405077
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D54D608000000000026CB10
+t1297405448
+s2542352
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Security.framework/Headers/Security.h
+c000000004D54D09D00000000000004F5
+t1297404061
+s1269
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004D54D0A600000000000CDED0
+t1297404070
+s843472
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/MySingleton.h
+c000000004F5B02C50000000000000138
+t1331364549
+s312
+i<Foundation/Foundation.h>
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/MySingleton.m
+c000000004F5B02FC000000000000019E
+t1331364604
+s414
+i"MySingleton.h"
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/apiViewController.h
+c000000004F6455650000000000000435
+t1331975525
+s1077
+i<UIKit/UIKit.h>
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/apiViewController.m
+c000000004F6D8C0900000000000014E9
+t1332579337
+s5353
+i"apiViewController.h"
+i"XMLRPCRequest.h"
+i"XMLRPCResponse.h"
+i"XMLRPCConnection.h"
+i"wlinkeAppDelegate.h"
+i"MySingleton.h"
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/ceoViewController.h
+c000000004F5AFD3F00000000000001ED
+t1331363135
+s493
+i<UIKit/UIKit.h>
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/ceoViewController.m
+c000000004F5B033F00000000000010AC
+t1331364671
+s4268
+i"ceoViewController.h"
+i"quwenViewController.h"
+i"shequViewController.h"
+i"zhoubianViewController.h"
+i"wojuViewController.h"
+i"shezhiViewController.h"
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/loginViewController.h
+c000000004ED8C9F10000000000000300
+t1322830321
+s768
+i<UIKit/UIKit.h>
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/loginViewController.m
+c000000004F6574870000000000001FB6
+t1332049031
+s8118
+i"loginViewController.h"
+i"ceoViewController.h"
+i"CHKeychain.h"
+i"iToast.h"
+i"CHStatusBar.h"
+i"signUpViewController.h"
+i"apiViewController.h"
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/loginViewController.xib
+c000000004EDC6F3E0000000000009F8B
+t1323069246
+s40843
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/postWeiboViewController.h
+c000000004F64257B0000000000000129
+t1331963259
+s297
+i<UIKit/UIKit.h>
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/postWeiboViewController.m
+c000000004F6426DF0000000000000763
+t1331963615
+s1891
+i"postWeiboViewController.h"
+i"iToast.h"
+i"apiViewController.h"
+i"MySingleton.h"
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/postWeiboViewController.xib
+c000000004F642571000000000000579B
+t1331963249
+s22427
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/quwenViewController.h
+c000000004F6D87AE0000000000000399
+t1332578222
+s921
+i<UIKit/UIKit.h>
+i"EGORefreshTableHeaderView.h"
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/quwenViewController.m
+c000000004F72B6D500000000000036B2
+t1332917973
+s14002
+i"quwenViewController.h"
+i"MySingleton.h"
+i"apiViewController.h"
+i"postWeiboViewController.h"
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/quwenViewController.xib
+c000000004F532E620000000000004CF1
+t1330851426
+s19697
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/shequViewController.h
+c000000004F6587C30000000000000293
+t1332053955
+s659
+i<UIKit/UIKit.h>
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/shequViewController.m
+c000000004F6D88430000000000002748
+t1332578371
+s10056
+i"shequViewController.h"
+i"apiViewController.h"
+i"MySingleton.h"
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/shequViewController.xib
+c000000004F658B1E0000000000004D03
+t1332054814
+s19715
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/shezhiViewController.h
+c000000004EE309DA00000000000000DF
+t1323502042
+s223
+i<UIKit/UIKit.h>
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/shezhiViewController.m
+c000000004EE309DA00000000000005A5
+t1323502042
+s1445
+i"shezhiViewController.h"
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/shezhiViewController.xib
+c000000004EE309DA0000000000001877
+t1323502042
+s6263
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/signUpViewController.h
+c000000004ED9C8910000000000000244
+t1322895505
+s580
+i<UIKit/UIKit.h>
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/signUpViewController.m
+c000000004EE3018F00000000000023AA
+t1323499919
+s9130
+i"signUpViewController.h"
+i"loginViewController.h"
+i"iToast.h"
+i"apiViewController.h"
+i"ceoViewController.h"
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/signUpViewController.xib
+c000000004EDC7376000000000000AA7D
+t1323070326
+s43645
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/wlinkeAppDelegate.h
+c000000004F5B02480000000000000138
+t1331364424
+s312
+i<UIKit/UIKit.h>
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/wlinkeAppDelegate.m
+c000000004EE00E240000000000000AAE
+t1323306532
+s2734
+i"wlinkeAppDelegate.h"
+i"loginViewController.h"
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/wojuViewController.h
+c000000004EE309CD00000000000000DB
+t1323502029
+s219
+i<UIKit/UIKit.h>
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/wojuViewController.m
+c000000004EE309CD000000000000059F
+t1323502029
+s1439
+i"wojuViewController.h"
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/wojuViewController.xib
+c000000004EE309CD0000000000001871
+t1323502029
+s6257
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/zhoubianViewController.h
+c000000004F6ED94F0000000000000270
+t1332664655
+s624
+i<UIKit/UIKit.h>
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/zhoubianViewController.m
+c000000004F6EDF52000000000000216E
+t1332666194
+s8558
+i"zhoubianViewController.h"
+i"apiViewController.h"
+i"MySingleton.h"
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/zhoubianViewController.xib
+c000000004F6ED98D0000000000004D0A
+t1332664717
+s19722
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/MainWindow.xib
+c000000004ED5F0D60000000000002103
+t1322643670
+s8451
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/NSString+XMLExtensions.h
+c0000000049D3A6830000000000000111
+t1238607491
+s273
+i<UIKit/UIKit.h>
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/NSString+XMLExtensions.m
+c0000000049D3A6830000000000000A5D
+t1238607491
+s2653
+i"NSString+XMLExtensions.h"
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Resources/blackArrow.png
+c000000004DE3B87600000000000010DC
+t1306769526
+s4316
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Resources/blackArrow@2x.png
+c000000004DE3B8760000000000000650
+t1306769526
+s1616
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Resources/blueArrow.png
+c000000004DE3B876000000000000118C
+t1306769526
+s4492
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Resources/blueArrow@2x.png
+c000000004DE3B87600000000000005F9
+t1306769526
+s1529
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Resources/grayArrow.png
+c000000004DE3B876000000000000077A
+t1306769526
+s1914
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Resources/grayArrow@2x.png
+c000000004DE3B876000000000000083D
+t1306769526
+s2109
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Resources/whiteArrow.png
+c000000004DE3B8760000000000001054
+t1306769526
+s4180
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Resources/whiteArrow@2x.png
+c000000004DE3B8760000000000000621
+t1306769526
+s1569
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Tab Bar Icons/clockicon.png
+c0000000049D2C2500000000000000F8E
+t1238549072
+s3982
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Tab Bar Icons/dependenticon.png
+c0000000049D2C2500000000000000B66
+t1238549072
+s2918
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Tab Bar Icons/doubleicon.png
+c0000000049D2C2500000000000000BCA
+t1238549072
+s3018
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Tab Bar Icons/singleicon.png
+c0000000049D2C2500000000000000B59
+t1238549072
+s2905
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/Tab Bar Icons/toolicon.png
+c0000000049D2C2500000000000000F2C
+t1238549072
+s3884
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/View/EGORefreshTableHeaderView.h
+c000000004DE3B876000000000000096F
+t1306769526
+s2415
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/View/EGORefreshTableHeaderView.m
+c000000004DE3B8760000000000002134
+t1306769526
+s8500
+i"EGORefreshTableHeaderView.h"
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLRPCConnection.h
+c0000000049D3A6820000000000000809
+t1238607490
+s2057
+i<Foundation/Foundation.h>
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLRPCConnection.m
+c0000000049D3A68200000000000011E1
+t1238607490
+s4577
+i"XMLRPCConnection.h"
+i"XMLRPCRequest.h"
+i"XMLRPCResponse.h"
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLRPCDecoder.h
+c0000000049D3A6820000000000000581
+t1238607490
+s1409
+i<Foundation/Foundation.h>
+i"XMLValueDecoder.h"
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLRPCDecoder.m
+c0000000049D3A6820000000000000D25
+t1238607490
+s3365
+i"XMLRPCDecoder.h"
+i"XMLRPCExtensions.h"
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLRPCEncoder.h
+c0000000049D3A68200000000000005B9
+t1238607490
+s1465
+i<Foundation/Foundation.h>
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLRPCEncoder.m
+c0000000049D3A6820000000000002187
+t1238607490
+s8583
+i"XMLRPCEncoder.h"
+i"XMLRPCExtensions.h"
+i"NSString+XMLExtensions.h"
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLRPCExtensions.h
+c0000000049D3A6820000000000000590
+t1238607490
+s1424
+i<Foundation/NSData.h>
+i<Foundation/NSString.h>
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLRPCExtensions.m
+c0000000049D3A68200000000000014A2
+t1238607490
+s5282
+i"XMLRPCExtensions.h"
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLRPCRequest.h
+c0000000049D3A68200000000000006FB
+t1238607490
+s1787
+i<Foundation/Foundation.h>
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLRPCRequest.m
+c0000000049D3A6820000000000000E50
+t1238607490
+s3664
+i"XMLRPCRequest.h"
+i"XMLRPCEncoder.h"
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLRPCResponse.h
+c0000000049D3A6820000000000000609
+t1238607490
+s1545
+i<Foundation/Foundation.h>
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLRPCResponse.m
+c0000000049D3A6820000000000000AB9
+t1238607490
+s2745
+i"XMLRPCResponse.h"
+i"XMLRPCDecoder.h"
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLValueDecoder.h
+c0000000049D3A68200000000000002F0
+t1238607490
+s752
+i<Foundation/Foundation.h>
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLValueDecoder.m
+c0000000049D3A68200000000000019B8
+t1238607490
+s6584
+i"XMLValueDecoder.h"
+i"XMLRPCExtensions.h"
+i"NSString+XMLExtensions.h"
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app.dSYM
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/Info.plist
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/MainWindow.nib
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/PkgInfo
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/ResourceRules.plist
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/ad.png
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/blackArrow.png
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/blackArrow@2x.png
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/blueArrow.png
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/blueArrow@2x.png
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/button_nor.png
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/button_pressed.png
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/checkbox_checked.png
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/checkbox_nor.png
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/clockicon.png
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/dependenticon.png
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/doubleicon.png
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/grayArrow.png
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/grayArrow@2x.png
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/login.png
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/loginViewController.nib
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/postWeiboViewController.nib
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/quwenViewController.nib
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/shequViewController.nib
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/shezhiViewController.nib
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/signUpViewController.nib
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/signup.png
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/singleicon.png
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/statusbar_background.png
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/titlebar_focused.png
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/titlebar_normal.png
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/toolicon.png
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/whiteArrow.png
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/whiteArrow@2x.png
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/wlinke
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/wojuViewController.nib
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/woniu.png
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/zhoubianViewController.nib
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/CHKeychain.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/CHSStatusBar.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/EGORefreshTableHeaderView.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/MySingleton.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/NSString+XMLExtensions.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/XMLRPCConnection.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/XMLRPCDecoder.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/XMLRPCEncoder.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/XMLRPCExtensions.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/XMLRPCRequest.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/XMLRPCResponse.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/XMLValueDecoder.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/apiViewController.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/ceoViewController.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/iToast.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/loginViewController.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/postWeiboViewController.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/quwenViewController.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/shequViewController.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/shezhiViewController.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/signUpViewController.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/wlinke
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/wlinke.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/wlinkeAppDelegate.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/wojuViewController.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/zhoubianViewController.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/CHKeychain.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/CHSStatusBar.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/EGORefreshTableHeaderView.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/MySingleton.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/NSString+XMLExtensions.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/XMLRPCConnection.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/XMLRPCDecoder.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/XMLRPCEncoder.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/XMLRPCExtensions.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/XMLRPCRequest.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/XMLRPCResponse.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/XMLValueDecoder.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/apiViewController.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/ceoViewController.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/iToast.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/loginViewController.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/postWeiboViewController.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/quwenViewController.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/shequViewController.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/shezhiViewController.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/signUpViewController.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/wlinke
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/wlinke.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/wlinkeAppDelegate.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/wojuViewController.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/zhoubianViewController.o
+t2
+s0
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/images/../ui/statusbar_background.png
+c000000004C927B0300000000000000C4
+t1284668163
+s196
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/images/ad.png
+c000000004E5B51F8000000000000538A
+t1314607608
+s21386
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/images/button_nor.png
+c000000004E5788F30000000000000FE1
+t1314359539
+s4065
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/images/button_pressed.png
+c000000004E5788F30000000000000FB1
+t1314359539
+s4017
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/images/checkbox_checked.png
+c000000004E169F5700000000000010C1
+t1310105431
+s4289
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/images/checkbox_nor.png
+c000000004E169F680000000000000BFC
+t1310105448
+s3068
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/images/login.png
+c000000004EDC6EDD0000000000005337
+t1323069149
+s21303
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/images/signup.png
+c000000004EDC6EF00000000000005C4A
+t1323069168
+s23626
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/images/titlebar_focused.png
+c000000004E16A84D0000000000001042
+t1310107725
+s4162
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/images/titlebar_normal.png
+c000000004E16A8610000000000000C93
+t1310107745
+s3219
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/images/woniu.png
+c000000004EE3129F0000000000000891
+t1323504287
+s2193
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/main.m
+c000000004ED5F0D6000000000000015C
+t1322643670
+s348
+i<UIKit/UIKit.h>
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/ui/CHSStatusBar.m
+c000000004E69B431000000000000086C
+t1315550257
+s2156
+i"CHStatusBar.h"
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/ui/CHStatusBar.h
+c000000004E69B1740000000000000254
+t1315549556
+s596
+i<Foundation/Foundation.h>
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/ui/iToast.h
+c000000004E698C700000000000000620
+t1315540080
+s1568
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/ui/iToast.m
+c000000004E69AFD50000000000001271
+t1315549141
+s4721
+i"iToast.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/util/CHKeychain.h
+c000000004E69D2230000000000000166
+t1315557923
+s358
+i<Foundation/Foundation.h>
+i<Security/Security.h>
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/util/CHKeychain.m
+c000000004E69D40300000000000006E6
+t1315558403
+s1766
+i"CHKeychain.h"
+
+N/Users/liuterence/Desktop/long way/iphone/wlinke/wlinke_Prefix.pch
+c000000004ED5F0D600000000000000B5
+t1322643670
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/cr/crS-ImmYGhWsAAFphBUmEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wlinke_Prefix-epehxyytccviivekuqsgrlzmglbu/wlinke_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/cr/crS-ImmYGhWsAAFphBUmEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wlinke_Prefix-hhwccwbiabkkbpbgyfldnacoymqm/wlinke_Prefix.pch.gch
+t2
+s0
+
+Nwlinke-Info.plist
+c000000004ED5F0D6000000000000038D
+t1322643670
+s909
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/CHKeychain.o "/Users/liuterence/Desktop/long way/iphone/wlinke/util/CHKeychain.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/CHSStatusBar.o "/Users/liuterence/Desktop/long way/iphone/wlinke/ui/CHSStatusBar.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/EGORefreshTableHeaderView.o "/Users/liuterence/Desktop/long way/iphone/wlinke/View/EGORefreshTableHeaderView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/MySingleton.o "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/MySingleton.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/NSString+XMLExtensions.o "/Users/liuterence/Desktop/long way/iphone/wlinke/NSString+XMLExtensions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/XMLRPCConnection.o "/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLRPCConnection.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/XMLRPCDecoder.o "/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLRPCDecoder.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/XMLRPCEncoder.o "/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLRPCEncoder.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/XMLRPCExtensions.o "/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLRPCExtensions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/XMLRPCRequest.o "/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLRPCRequest.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/XMLRPCResponse.o "/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLRPCResponse.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/XMLValueDecoder.o "/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLValueDecoder.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/apiViewController.o "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/apiViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/ceoViewController.o "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/ceoViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/iToast.o "/Users/liuterence/Desktop/long way/iphone/wlinke/ui/iToast.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/loginViewController.o "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/loginViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/main.o "/Users/liuterence/Desktop/long way/iphone/wlinke/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/postWeiboViewController.o "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/postWeiboViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/quwenViewController.o "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/quwenViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/shequViewController.o "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/shequViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/shezhiViewController.o "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/shezhiViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/signUpViewController.o "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/signUpViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/wlinkeAppDelegate.o "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/wlinkeAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/wojuViewController.o "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/wojuViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/zhoubianViewController.o "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/zhoubianViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/CHKeychain.o "/Users/liuterence/Desktop/long way/iphone/wlinke/util/CHKeychain.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/CHSStatusBar.o "/Users/liuterence/Desktop/long way/iphone/wlinke/ui/CHSStatusBar.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/EGORefreshTableHeaderView.o "/Users/liuterence/Desktop/long way/iphone/wlinke/View/EGORefreshTableHeaderView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/MySingleton.o "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/MySingleton.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/NSString+XMLExtensions.o "/Users/liuterence/Desktop/long way/iphone/wlinke/NSString+XMLExtensions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/XMLRPCConnection.o "/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLRPCConnection.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/XMLRPCDecoder.o "/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLRPCDecoder.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/XMLRPCEncoder.o "/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLRPCEncoder.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/XMLRPCExtensions.o "/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLRPCExtensions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/XMLRPCRequest.o "/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLRPCRequest.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/XMLRPCResponse.o "/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLRPCResponse.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/XMLValueDecoder.o "/Users/liuterence/Desktop/long way/iphone/wlinke/XMLRPC/XMLValueDecoder.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/apiViewController.o "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/apiViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/ceoViewController.o "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/ceoViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/iToast.o "/Users/liuterence/Desktop/long way/iphone/wlinke/ui/iToast.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/loginViewController.o "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/loginViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/main.o "/Users/liuterence/Desktop/long way/iphone/wlinke/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/postWeiboViewController.o "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/postWeiboViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/quwenViewController.o "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/quwenViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/shequViewController.o "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/shequViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/shezhiViewController.o "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/shezhiViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/signUpViewController.o "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/signUpViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/wlinkeAppDelegate.o "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/wlinkeAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/wojuViewController.o "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/wojuViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/zhoubianViewController.o "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/zhoubianViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/loginViewController.xib"
+r0
+
+CCompileXIB "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/postWeiboViewController.xib"
+r0
+
+CCompileXIB "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/quwenViewController.xib"
+r0
+
+CCompileXIB "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/shequViewController.xib"
+r0
+
+CCompileXIB "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/shezhiViewController.xib"
+r0
+
+CCompileXIB "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/signUpViewController.xib"
+r0
+
+CCompileXIB "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/wojuViewController.xib"
+r0
+
+CCompileXIB "/Users/liuterence/Desktop/long way/iphone/wlinke/Classes/zhoubianViewController.xib"
+r0
+
+CCompileXIB "/Users/liuterence/Desktop/long way/iphone/wlinke/MainWindow.xib"
+r0
+
+CCopyPNGFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/ad.png" images/ad.png
+r0
+
+CCopyPNGFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/blackArrow.png" Resources/blackArrow.png
+r0
+
+CCopyPNGFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/blackArrow@2x.png" Resources/blackArrow@2x.png
+r0
+
+CCopyPNGFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/blueArrow.png" Resources/blueArrow.png
+r0
+
+CCopyPNGFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/blueArrow@2x.png" Resources/blueArrow@2x.png
+r0
+
+CCopyPNGFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/button_nor.png" images/button_nor.png
+r0
+
+CCopyPNGFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/button_pressed.png" images/button_pressed.png
+r0
+
+CCopyPNGFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/checkbox_checked.png" images/checkbox_checked.png
+r0
+
+CCopyPNGFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/checkbox_nor.png" images/checkbox_nor.png
+r0
+
+CCopyPNGFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/clockicon.png" "Tab Bar Icons/clockicon.png"
+r0
+
+CCopyPNGFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/dependenticon.png" "Tab Bar Icons/dependenticon.png"
+r0
+
+CCopyPNGFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/doubleicon.png" "Tab Bar Icons/doubleicon.png"
+r0
+
+CCopyPNGFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/grayArrow.png" Resources/grayArrow.png
+r0
+
+CCopyPNGFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/grayArrow@2x.png" Resources/grayArrow@2x.png
+r0
+
+CCopyPNGFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/login.png" images/login.png
+r0
+
+CCopyPNGFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/signup.png" images/signup.png
+r0
+
+CCopyPNGFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/singleicon.png" "Tab Bar Icons/singleicon.png"
+r0
+
+CCopyPNGFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/statusbar_background.png" images/../ui/statusbar_background.png
+r0
+
+CCopyPNGFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/titlebar_focused.png" images/titlebar_focused.png
+r0
+
+CCopyPNGFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/titlebar_normal.png" images/titlebar_normal.png
+r0
+
+CCopyPNGFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/toolicon.png" "Tab Bar Icons/toolicon.png"
+r0
+
+CCopyPNGFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/whiteArrow.png" Resources/whiteArrow.png
+r0
+
+CCopyPNGFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/whiteArrow@2x.png" Resources/whiteArrow@2x.png
+r0
+
+CCopyPNGFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/woniu.png" images/woniu.png
+r0
+
+CCpResource build/Debug-iphoneos/wlinke.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/wlinke" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app.dSYM" "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/wlinke"
+r0
+
+CLd "/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv6/wlinke" normal armv6
+r0
+
+CLd "/Users/liuterence/Desktop/long way/iphone/wlinke/build/wlinke.build/Debug-iphoneos/wlinke.build/Objects-normal/armv7/wlinke" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app/Info.plist" wlinke-Info.plist
+r0
+
+CProcessPCH /var/folders/cr/crS-ImmYGhWsAAFphBUmEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wlinke_Prefix-epehxyytccviivekuqsgrlzmglbu/wlinke_Prefix.pch.gch wlinke_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/cr/crS-ImmYGhWsAAFphBUmEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wlinke_Prefix-hhwccwbiabkkbpbgyfldnacoymqm/wlinke_Prefix.pch.gch wlinke_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/liuterence/Desktop/long way/iphone/wlinke/build/Debug-iphoneos/wlinke.app"
+r0
+

@@ -1,0 +1,734 @@
+Twlinke
+v7
+r0
+t344352394.705336
+cCheck dependencies
+cProcessInfoPlistFile /Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app/Info.plist wlinke-Info.plist
+cCompileXIB /Users/liuterence/Desktop/wlinke/MainWindow.xib
+cCompileXIB /Users/liuterence/Desktop/wlinke/Classes/loginViewController.xib
+cCpResource build/Debug-iphonesimulator/wlinke.app/ad.png images/ad.png
+cCpResource build/Debug-iphonesimulator/wlinke.app/button_nor.png images/button_nor.png
+cCpResource build/Debug-iphonesimulator/wlinke.app/button_pressed.png images/button_pressed.png
+cCpResource build/Debug-iphonesimulator/wlinke.app/checkbox_checked.png images/checkbox_checked.png
+cCpResource build/Debug-iphonesimulator/wlinke.app/checkbox_nor.png images/checkbox_nor.png
+cCpResource build/Debug-iphonesimulator/wlinke.app/titlebar_focused.png images/titlebar_focused.png
+cCpResource build/Debug-iphonesimulator/wlinke.app/titlebar_normal.png images/titlebar_normal.png
+cProcessPCH /var/folders/cr/crS-ImmYGhWsAAFphBUmEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wlinke_Prefix-cdwgjkjodazdzyexaxiffqxkuphb/wlinke_Prefix.pch.gch wlinke_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/main.o /Users/liuterence/Desktop/wlinke/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/wlinkeAppDelegate.o /Users/liuterence/Desktop/wlinke/Classes/wlinkeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/NSString+XMLExtensions.o /Users/liuterence/Desktop/wlinke/NSString+XMLExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCConnection.o /Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCDecoder.o /Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCDecoder.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCEncoder.o /Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCEncoder.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCExtensions.o /Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCRequest.o /Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCResponse.o /Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCResponse.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLValueDecoder.o /Users/liuterence/Desktop/wlinke/XMLRPC/XMLValueDecoder.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/loginViewController.o /Users/liuterence/Desktop/wlinke/Classes/loginViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/SFHFKeychainUtils.o /Users/liuterence/Desktop/wlinke/security/SFHFKeychainUtils.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app/wlinke normal i386
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h
+c000000004D54CFB90000000000001777
+t1297403833
+s6007
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h
+c000000004D54CFBD0000000000006506
+t1297403837
+s25862
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Security.framework/Headers/Security.h
+c000000004D54CEFA00000000000004F5
+t1297403642
+s1269
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/liuterence/Desktop/wlinke/Classes/loginViewController.h
+c000000004ED62BCB000000000000027A
+t1322658763
+s634
+i<UIKit/UIKit.h>
+
+N/Users/liuterence/Desktop/wlinke/Classes/loginViewController.m
+c000000004ED62EF50000000000000771
+t1322659573
+s1905
+i"loginViewController.h"
+
+N/Users/liuterence/Desktop/wlinke/Classes/loginViewController.xib
+c000000004ED623DA000000000000792C
+t1322656730
+s31020
+
+N/Users/liuterence/Desktop/wlinke/Classes/wlinkeAppDelegate.h
+c000000004ED5F0D60000000000000138
+t1322643670
+s312
+i<UIKit/UIKit.h>
+
+N/Users/liuterence/Desktop/wlinke/Classes/wlinkeAppDelegate.m
+c000000004ED5F0D600000000000009BE
+t1322643670
+s2494
+i"wlinkeAppDelegate.h"
+
+N/Users/liuterence/Desktop/wlinke/MainWindow.xib
+c000000004ED5F0D60000000000002103
+t1322643670
+s8451
+
+N/Users/liuterence/Desktop/wlinke/NSString+XMLExtensions.h
+c0000000049D3A6830000000000000111
+t1238607491
+s273
+i<UIKit/UIKit.h>
+
+N/Users/liuterence/Desktop/wlinke/NSString+XMLExtensions.m
+c0000000049D3A6830000000000000A5D
+t1238607491
+s2653
+i"NSString+XMLExtensions.h"
+
+N/Users/liuterence/Desktop/wlinke/SFHFKeychainUtils.h
+c000000004C0F5366000000000000071E
+t1276072806
+s1822
+i<UIKit/UIKit.h>
+
+N/Users/liuterence/Desktop/wlinke/SFHFKeychainUtils.m
+c000000004C0F53660000000000003A97
+t1276072806
+s14999
+i"SFHFKeychainUtils.h"
+i<Security/Security.h>
+
+N/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCConnection.h
+c0000000049D3A6820000000000000809
+t1238607490
+s2057
+i<Foundation/Foundation.h>
+
+N/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCConnection.m
+c0000000049D3A68200000000000011E1
+t1238607490
+s4577
+i"XMLRPCConnection.h"
+i"XMLRPCRequest.h"
+i"XMLRPCResponse.h"
+
+N/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCDecoder.h
+c0000000049D3A6820000000000000581
+t1238607490
+s1409
+i<Foundation/Foundation.h>
+i"XMLValueDecoder.h"
+
+N/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCDecoder.m
+c0000000049D3A6820000000000000D25
+t1238607490
+s3365
+i"XMLRPCDecoder.h"
+i"XMLRPCExtensions.h"
+
+N/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCEncoder.h
+c0000000049D3A68200000000000005B9
+t1238607490
+s1465
+i<Foundation/Foundation.h>
+
+N/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCEncoder.m
+c0000000049D3A6820000000000002187
+t1238607490
+s8583
+i"XMLRPCEncoder.h"
+i"XMLRPCExtensions.h"
+i"NSString+XMLExtensions.h"
+
+N/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCExtensions.h
+c0000000049D3A6820000000000000590
+t1238607490
+s1424
+i<Foundation/NSData.h>
+i<Foundation/NSString.h>
+
+N/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCExtensions.m
+c0000000049D3A68200000000000014A2
+t1238607490
+s5282
+i"XMLRPCExtensions.h"
+
+N/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCRequest.h
+c0000000049D3A68200000000000006FB
+t1238607490
+s1787
+i<Foundation/Foundation.h>
+
+N/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCRequest.m
+c0000000049D3A6820000000000000E50
+t1238607490
+s3664
+i"XMLRPCRequest.h"
+i"XMLRPCEncoder.h"
+
+N/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCResponse.h
+c0000000049D3A6820000000000000609
+t1238607490
+s1545
+i<Foundation/Foundation.h>
+
+N/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCResponse.m
+c0000000049D3A6820000000000000AB9
+t1238607490
+s2745
+i"XMLRPCResponse.h"
+i"XMLRPCDecoder.h"
+
+N/Users/liuterence/Desktop/wlinke/XMLRPC/XMLValueDecoder.h
+c0000000049D3A68200000000000002F0
+t1238607490
+s752
+i<Foundation/Foundation.h>
+
+N/Users/liuterence/Desktop/wlinke/XMLRPC/XMLValueDecoder.m
+c0000000049D3A68200000000000019B8
+t1238607490
+s6584
+i"XMLValueDecoder.h"
+i"XMLRPCExtensions.h"
+i"NSString+XMLExtensions.h"
+
+N/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app
+t2
+s0
+
+N/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app.dSYM
+t2
+s0
+
+N/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app/Info.plist
+t1322659592
+s587
+
+N/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app/MainWindow.nib
+t1322659593
+s1530
+
+N/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app/PkgInfo
+t1322659592
+s8
+
+N/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app/ad.png
+t1322659592
+s21386
+
+N/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app/button_nor.png
+t1322659592
+s4065
+
+N/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app/button_pressed.png
+t1322659592
+s4017
+
+N/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app/checkbox_checked.png
+t1322659592
+s4289
+
+N/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app/checkbox_nor.png
+t1322659592
+s3068
+
+N/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app/loginViewController.nib
+t1322659593
+s5442
+
+N/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app/titlebar_focused.png
+t1322659592
+s4162
+
+N/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app/titlebar_normal.png
+t1322659592
+s3219
+
+N/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app/wlinke
+t2
+s0
+
+N/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/NSString+XMLExtensions.o
+t1322659594
+s11284
+
+N/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/SFHFKeychainUtils.o
+t1322659594
+s18892
+
+N/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCConnection.o
+t1322659594
+s19144
+
+N/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCDecoder.o
+t1322659594
+s15224
+
+N/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCEncoder.o
+t1322659594
+s30868
+
+N/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCExtensions.o
+t1322659594
+s10804
+
+N/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCRequest.o
+t1322659594
+s19420
+
+N/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCResponse.o
+t1322659594
+s15996
+
+N/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLValueDecoder.o
+t1322659594
+s24548
+
+N/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/loginViewController.o
+t1322659594
+s42520
+
+N/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/main.o
+t1322659594
+s6300
+
+N/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/wlinke.LinkFileList
+c000000004ED62F0800000000000005DB
+t1322659592
+s1499
+
+N/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/wlinkeAppDelegate.o
+t1322659594
+s49684
+
+N/Users/liuterence/Desktop/wlinke/images/ad.png
+c000000004E5B51F8000000000000538A
+t1314607608
+s21386
+
+N/Users/liuterence/Desktop/wlinke/images/button_nor.png
+c000000004E5788F30000000000000FE1
+t1314359539
+s4065
+
+N/Users/liuterence/Desktop/wlinke/images/button_pressed.png
+c000000004E5788F30000000000000FB1
+t1314359539
+s4017
+
+N/Users/liuterence/Desktop/wlinke/images/checkbox_checked.png
+c000000004E169F5700000000000010C1
+t1310105431
+s4289
+
+N/Users/liuterence/Desktop/wlinke/images/checkbox_nor.png
+c000000004E169F680000000000000BFC
+t1310105448
+s3068
+
+N/Users/liuterence/Desktop/wlinke/images/titlebar_focused.png
+c000000004E16A84D0000000000001042
+t1310107725
+s4162
+
+N/Users/liuterence/Desktop/wlinke/images/titlebar_normal.png
+c000000004E16A8610000000000000C93
+t1310107745
+s3219
+
+N/Users/liuterence/Desktop/wlinke/main.m
+c000000004ED5F0D6000000000000015C
+t1322643670
+s348
+i<UIKit/UIKit.h>
+
+N/Users/liuterence/Desktop/wlinke/security/SFHFKeychainUtils.h
+c000000004C0F5366000000000000071E
+t1276072806
+s1822
+i<UIKit/UIKit.h>
+
+N/Users/liuterence/Desktop/wlinke/security/SFHFKeychainUtils.m
+c000000004C0F53660000000000003A97
+t1276072806
+s14999
+i"SFHFKeychainUtils.h"
+i<Security/Security.h>
+
+N/Users/liuterence/Desktop/wlinke/wlinke_Prefix.pch
+c000000004ED5F0D600000000000000B5
+t1322643670
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/cr/crS-ImmYGhWsAAFphBUmEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wlinke_Prefix-cdwgjkjodazdzyexaxiffqxkuphb/wlinke_Prefix.pch.gch
+t1322659594
+s15814064
+
+Nwlinke-Info.plist
+c000000004ED5F0D6000000000000038D
+t1322643670
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies344352392#344352392#0(0"0(0#1#0"8632667744#0"0#
+
+CCompileC build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/NSString+XMLExtensions.o /Users/liuterence/Desktop/wlinke/NSString+XMLExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344352394.310569
+e344352394.398449
+r1
+xCompileC
+xbuild/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/NSString+XMLExtensions.o
+x/Users/liuterence/Desktop/wlinke/NSString+XMLExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/liuterence/Desktop/wlinke/NSString+XMLExtensions.m344352394#344352394#0(0"0(0#0#57"/Users/liuterence/Desktop/wlinke/NSString+XMLExtensions.m8632363936#1864"    cd /Users/liuterence/Desktop/wlinke    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-generated-files.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-own-target-headers.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-all-target-headers.hmap -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-project-headers.hmap -F/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator -I/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/include -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources/i386 -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources -include /var/folders/cr/crS-ImmYGhWsAAFphBUmEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wlinke_Prefix-cdwgjkjodazdzyexaxiffqxkuphb/wlinke_Prefix.pch -c /Users/liuterence/Desktop/wlinke/NSString+XMLExtensions.m -o /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/NSString+XMLExtensions.o0#
+
+CCompileC build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/SFHFKeychainUtils.o /Users/liuterence/Desktop/wlinke/SFHFKeychainUtils.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/SFHFKeychainUtils.o /Users/liuterence/Desktop/wlinke/security/SFHFKeychainUtils.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344352394.555453
+e344352394.653229
+r1
+xCompileC
+xbuild/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/SFHFKeychainUtils.o
+x/Users/liuterence/Desktop/wlinke/security/SFHFKeychainUtils.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/liuterence/Desktop/wlinke/security/SFHFKeychainUtils.m344352394#344352394#0(0"0(0#0#61"/Users/liuterence/Desktop/wlinke/security/SFHFKeychainUtils.m8633967136#1863"    cd /Users/liuterence/Desktop/wlinke    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-generated-files.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-own-target-headers.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-all-target-headers.hmap -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-project-headers.hmap -F/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator -I/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/include -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources/i386 -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources -include /var/folders/cr/crS-ImmYGhWsAAFphBUmEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wlinke_Prefix-cdwgjkjodazdzyexaxiffqxkuphb/wlinke_Prefix.pch -c /Users/liuterence/Desktop/wlinke/security/SFHFKeychainUtils.m -o /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/SFHFKeychainUtils.o0#
+
+CCompileC build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCConnection.o /Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344352394.311909
+e344352394.444274
+r1
+xCompileC
+xbuild/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCConnection.o
+x/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCConnection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCConnection.m344352394#344352394#0(0"0(0#0#58"/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCConnection.m8631277472#1859"    cd /Users/liuterence/Desktop/wlinke    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-generated-files.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-own-target-headers.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-all-target-headers.hmap -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-project-headers.hmap -F/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator -I/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/include -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources/i386 -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources -include /var/folders/cr/crS-ImmYGhWsAAFphBUmEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wlinke_Prefix-cdwgjkjodazdzyexaxiffqxkuphb/wlinke_Prefix.pch -c /Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCConnection.m -o /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCConnection.o0#
+
+CCompileC build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCDecoder.o /Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCDecoder.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344352394.377375
+e344352394.475892
+r1
+xCompileC
+xbuild/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCDecoder.o
+x/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCDecoder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCDecoder.m: In function '-[XMLRPCDecoder initWithData:]':
+o/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCDecoder.m:48: warning: class 'XMLRPCDecoder' does not implement the 'NSXMLParserDelegate' protocol
+lSLF07#2@63"Compile /Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCDecoder.m344352394#344352394#0(248"/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCDecoder.m: In function '-[XMLRPCDecoder initWithData:]':/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCDecoder.m:48: warning: class 'XMLRPCDecoder' does not implement the 'NSXMLParserDelegate' protocol1(22@75"Class 'XMLRPCDecoder' does not implement the 'NSXMLParserDelegate' protocol344352394#103#145#0(6@55"/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCDecoder.m260300290#48#0#48#0#45"class '*' does not implement the '*' protocol0(0#0#55"/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCDecoder.m8632247616#1853"    cd /Users/liuterence/Desktop/wlinke    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-generated-files.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-own-target-headers.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-all-target-headers.hmap -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-project-headers.hmap -F/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator -I/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/include -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources/i386 -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources -include /var/folders/cr/crS-ImmYGhWsAAFphBUmEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wlinke_Prefix-cdwgjkjodazdzyexaxiffqxkuphb/wlinke_Prefix.pch -c /Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCDecoder.m -o /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCDecoder.o0#
+
+CCompileC build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCEncoder.o /Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCEncoder.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344352394.398610
+e344352394.544281
+r1
+xCompileC
+xbuild/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCEncoder.o
+x/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCEncoder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCEncoder.m344352394#344352394#0(0"0(0#0#55"/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCEncoder.m8631533824#1853"    cd /Users/liuterence/Desktop/wlinke    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-generated-files.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-own-target-headers.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-all-target-headers.hmap -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-project-headers.hmap -F/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator -I/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/include -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources/i386 -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources -include /var/folders/cr/crS-ImmYGhWsAAFphBUmEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wlinke_Prefix-cdwgjkjodazdzyexaxiffqxkuphb/wlinke_Prefix.pch -c /Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCEncoder.m -o /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCEncoder.o0#
+
+CCompileC build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCExtensions.o /Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344352394.412584
+e344352394.508920
+r1
+xCompileC
+xbuild/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCExtensions.o
+x/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCExtensions.m344352394#344352394#0(0"0(0#0#58"/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCExtensions.m8634668320#1859"    cd /Users/liuterence/Desktop/wlinke    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-generated-files.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-own-target-headers.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-all-target-headers.hmap -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-project-headers.hmap -F/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator -I/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/include -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources/i386 -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources -include /var/folders/cr/crS-ImmYGhWsAAFphBUmEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wlinke_Prefix-cdwgjkjodazdzyexaxiffqxkuphb/wlinke_Prefix.pch -c /Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCExtensions.m -o /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCExtensions.o0#
+
+CCompileC build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCRequest.o /Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344352394.444425
+e344352394.555285
+r1
+xCompileC
+xbuild/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCRequest.o
+x/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCRequest.m344352394#344352394#0(0"0(0#0#55"/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCRequest.m8632413472#1853"    cd /Users/liuterence/Desktop/wlinke    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-generated-files.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-own-target-headers.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-all-target-headers.hmap -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-project-headers.hmap -F/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator -I/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/include -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources/i386 -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources -include /var/folders/cr/crS-ImmYGhWsAAFphBUmEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wlinke_Prefix-cdwgjkjodazdzyexaxiffqxkuphb/wlinke_Prefix.pch -c /Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCRequest.m -o /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCRequest.o0#
+
+CCompileC build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCResponse.o /Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCResponse.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344352394.476038
+e344352394.575584
+r1
+xCompileC
+xbuild/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCResponse.o
+x/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCResponse.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCResponse.m344352394#344352394#0(0"0(0#0#56"/Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCResponse.m8633139264#1855"    cd /Users/liuterence/Desktop/wlinke    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-generated-files.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-own-target-headers.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-all-target-headers.hmap -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-project-headers.hmap -F/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator -I/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/include -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources/i386 -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources -include /var/folders/cr/crS-ImmYGhWsAAFphBUmEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wlinke_Prefix-cdwgjkjodazdzyexaxiffqxkuphb/wlinke_Prefix.pch -c /Users/liuterence/Desktop/wlinke/XMLRPC/XMLRPCResponse.m -o /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLRPCResponse.o0#
+
+CCompileC build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLValueDecoder.o /Users/liuterence/Desktop/wlinke/XMLRPC/XMLValueDecoder.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344352394.509079
+e344352394.642606
+r1
+xCompileC
+xbuild/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLValueDecoder.o
+x/Users/liuterence/Desktop/wlinke/XMLRPC/XMLValueDecoder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/liuterence/Desktop/wlinke/XMLRPC/XMLValueDecoder.m: In function '-[XMLValueDecoder initWithParser:andParentDecoder:]':
+o/Users/liuterence/Desktop/wlinke/XMLRPC/XMLValueDecoder.m:11: warning: class 'XMLValueDecoder' does not implement the 'NSXMLParserDelegate' protocol
+lSLF07#2@65"Compile /Users/liuterence/Desktop/wlinke/XMLRPC/XMLValueDecoder.m344352394#344352394#0(275"/Users/liuterence/Desktop/wlinke/XMLRPC/XMLValueDecoder.m: In function '-[XMLValueDecoder initWithParser:andParentDecoder:]':/Users/liuterence/Desktop/wlinke/XMLRPC/XMLValueDecoder.m:11: warning: class 'XMLValueDecoder' does not implement the 'NSXMLParserDelegate' protocol1(22@77"Class 'XMLValueDecoder' does not implement the 'NSXMLParserDelegate' protocol344352394#126#149#0(6@57"/Users/liuterence/Desktop/wlinke/XMLRPC/XMLValueDecoder.m260300290#11#0#11#0#45"class '*' does not implement the '*' protocol0(0#0#57"/Users/liuterence/Desktop/wlinke/XMLRPC/XMLValueDecoder.m8635087584#1857"    cd /Users/liuterence/Desktop/wlinke    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-generated-files.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-own-target-headers.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-all-target-headers.hmap -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-project-headers.hmap -F/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator -I/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/include -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources/i386 -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources -include /var/folders/cr/crS-ImmYGhWsAAFphBUmEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wlinke_Prefix-cdwgjkjodazdzyexaxiffqxkuphb/wlinke_Prefix.pch -c /Users/liuterence/Desktop/wlinke/XMLRPC/XMLValueDecoder.m -o /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/XMLValueDecoder.o0#
+
+CCompileC build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/loginViewController.o /Users/liuterence/Desktop/wlinke/Classes/loginViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344352394.544440
+e344352394.642189
+r1
+xCompileC
+xbuild/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/loginViewController.o
+x/Users/liuterence/Desktop/wlinke/Classes/loginViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/liuterence/Desktop/wlinke/Classes/loginViewController.m:84: warning: property 'txfldUserName' requires method '-txfldUserName' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/liuterence/Desktop/wlinke/Classes/loginViewController.m:84: warning: property 'txfldUserName' requires the method 'setTxfldUserName:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/liuterence/Desktop/wlinke/Classes/loginViewController.m:84: warning: property 'txfldPassWord' requires method '-txfldPassWord' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/liuterence/Desktop/wlinke/Classes/loginViewController.m:84: warning: property 'txfldPassWord' requires the method 'setTxfldPassWord:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/liuterence/Desktop/wlinke/Classes/loginViewController.m:84: warning: property 'btnCheckBox' requires method '-btnCheckBox' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/liuterence/Desktop/wlinke/Classes/loginViewController.m:84: warning: property 'btnCheckBox' requires the method 'setBtnCheckBox:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@70"Compile /Users/liuterence/Desktop/wlinke/Classes/loginViewController.m344352394#344352394#0(1279"/Users/liuterence/Desktop/wlinke/Classes/loginViewController.m:84: warning: property 'txfldUserName' requires method '-txfldUserName' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/liuterence/Desktop/wlinke/Classes/loginViewController.m:84: warning: property 'txfldUserName' requires the method 'setTxfldUserName:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/liuterence/Desktop/wlinke/Classes/loginViewController.m:84: warning: property 'txfldPassWord' requires method '-txfldPassWord' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/liuterence/Desktop/wlinke/Classes/loginViewController.m:84: warning: property 'txfldPassWord' requires the method 'setTxfldPassWord:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/liuterence/Desktop/wlinke/Classes/loginViewController.m:84: warning: property 'btnCheckBox' requires method '-btnCheckBox' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/liuterence/Desktop/wlinke/Classes/loginViewController.m:84: warning: property 'btnCheckBox' requires the method 'setBtnCheckBox:' to be defined - use @synthesize, @dynamic or provide a method implementation6(22@134"Property 'txfldUserName' requires method '-txfldUserName' to be defined - use @synthesize, @dynamic or provide a method implementation344352394#0#211#0(6@62"/Users/liuterence/Desktop/wlinke/Classes/loginViewController.m344352373#84#0#84#0#0"0(22@141"Property 'txfldUserName' requires the method 'setTxfldUserName:' to be defined - use @synthesize, @dynamic or provide a method implementation344352394#211#218#0(6@62"/Users/liuterence/Desktop/wlinke/Classes/loginViewController.m344352373#84#0#84#0#0"0(22@134"Property 'txfldPassWord' requires method '-txfldPassWord' to be defined - use @synthesize, @dynamic or provide a method implementation344352394#429#211#0(6@62"/Users/liuterence/Desktop/wlinke/Classes/loginViewController.m344352373#84#0#84#0#0"0(22@141"Property 'txfldPassWord' requires the method 'setTxfldPassWord:' to be defined - use @synthesize, @dynamic or provide a method implementation344352394#640#218#0(6@62"/Users/liuterence/Desktop/wlinke/Classes/loginViewController.m344352373#84#0#84#0#0"0(22@130"Property 'btnCheckBox' requires method '-btnCheckBox' to be defined - use @synthesize, @dynamic or provide a method implementation344352394#858#207#0(6@62"/Users/liuterence/Desktop/wlinke/Classes/loginViewController.m344352373#84#0#84#0#0"0(22@137"Property 'btnCheckBox' requires the method 'setBtnCheckBox:' to be defined - use @synthesize, @dynamic or provide a method implementation344352394#1065#214#0(6@62"/Users/liuterence/Desktop/wlinke/Classes/loginViewController.m344352373#84#0#84#0#0"0(0#0#62"/Users/liuterence/Desktop/wlinke/Classes/loginViewController.m8634217888#1866"    cd /Users/liuterence/Desktop/wlinke    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-generated-files.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-own-target-headers.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-all-target-headers.hmap -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-project-headers.hmap -F/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator -I/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/include -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources/i386 -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources -include /var/folders/cr/crS-ImmYGhWsAAFphBUmEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wlinke_Prefix-cdwgjkjodazdzyexaxiffqxkuphb/wlinke_Prefix.pch -c /Users/liuterence/Desktop/wlinke/Classes/loginViewController.m -o /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/loginViewController.o0#
+
+CCompileC build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/main.o /Users/liuterence/Desktop/wlinke/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344352394.307805
+e344352394.377216
+r1
+xCompileC
+xbuild/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/main.o
+x/Users/liuterence/Desktop/wlinke/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/liuterence/Desktop/wlinke/main.m344352394#344352394#0(0"0(0#0#39"/Users/liuterence/Desktop/wlinke/main.m8632642016#1828"    cd /Users/liuterence/Desktop/wlinke    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-generated-files.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-own-target-headers.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-all-target-headers.hmap -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-project-headers.hmap -F/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator -I/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/include -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources/i386 -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources -include /var/folders/cr/crS-ImmYGhWsAAFphBUmEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wlinke_Prefix-cdwgjkjodazdzyexaxiffqxkuphb/wlinke_Prefix.pch -c /Users/liuterence/Desktop/wlinke/main.m -o /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/main.o0#
+
+CCompileC build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/wlinkeAppDelegate.o /Users/liuterence/Desktop/wlinke/Classes/wlinkeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344352394.309118
+e344352394.412427
+r1
+xCompileC
+xbuild/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/wlinkeAppDelegate.o
+x/Users/liuterence/Desktop/wlinke/Classes/wlinkeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/liuterence/Desktop/wlinke/Classes/wlinkeAppDelegate.m344352394#344352394#0(0"0(0#0#60"/Users/liuterence/Desktop/wlinke/Classes/wlinkeAppDelegate.m8632567360#1862"    cd /Users/liuterence/Desktop/wlinke    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-generated-files.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-own-target-headers.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-all-target-headers.hmap -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-project-headers.hmap -F/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator -I/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/include -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources/i386 -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources -include /var/folders/cr/crS-ImmYGhWsAAFphBUmEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wlinke_Prefix-cdwgjkjodazdzyexaxiffqxkuphb/wlinke_Prefix.pch -c /Users/liuterence/Desktop/wlinke/Classes/wlinkeAppDelegate.m -o /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/wlinkeAppDelegate.o0#
+
+CCompileXIB /Users/liuterence/Desktop/wlinke/Classes/loginViewController.xib
+s344352392.765899
+e344352393.273997
+r1
+xCompileXIB
+x/Users/liuterence/Desktop/wlinke/Classes/loginViewController.xib
+lSLF07#2@42"CompileXIB Classes/loginViewController.xib344352392#344352393#0(0"0(0#0#64"/Users/liuterence/Desktop/wlinke/Classes/loginViewController.xib8632380896#577"    cd /Users/liuterence/Desktop/wlinke    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app/loginViewController.nib /Users/liuterence/Desktop/wlinke/Classes/loginViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/liuterence/Desktop/wlinke/MainWindow.xib
+s344352392.764933
+e344352393.136170
+r1
+xCompileXIB
+x/Users/liuterence/Desktop/wlinke/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib344352392#344352393#0(0"0(0#0#47"/Users/liuterence/Desktop/wlinke/MainWindow.xib8630516000#551"    cd /Users/liuterence/Desktop/wlinke    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app/MainWindow.nib /Users/liuterence/Desktop/wlinke/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/wlinke.app/ad.png images/ad.png
+s344352392.766652
+e344352392.827967
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/wlinke.app/ad.png
+ximages/ad.png
+lSLF07#2@18"Copy images/ad.png344352392#344352392#0(0"0(0#0#46"/Users/liuterence/Desktop/wlinke/images/ad.png8630656672#452"    cd /Users/liuterence/Desktop/wlinke    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/liuterence/Desktop/wlinke/images/ad.png /Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app0#
+
+CCpResource build/Debug-iphonesimulator/wlinke.app/button_nor.png images/button_nor.png
+s344352392.767471
+e344352392.831443
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/wlinke.app/button_nor.png
+ximages/button_nor.png
+lSLF07#2@26"Copy images/button_nor.png344352392#344352392#0(0"0(0#0#54"/Users/liuterence/Desktop/wlinke/images/button_nor.png8631256288#460"    cd /Users/liuterence/Desktop/wlinke    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/liuterence/Desktop/wlinke/images/button_nor.png /Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app0#
+
+CCpResource build/Debug-iphonesimulator/wlinke.app/button_pressed.png images/button_pressed.png
+s344352392.768222
+e344352392.832770
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/wlinke.app/button_pressed.png
+ximages/button_pressed.png
+lSLF07#2@30"Copy images/button_pressed.png344352392#344352392#0(0"0(0#0#58"/Users/liuterence/Desktop/wlinke/images/button_pressed.png8633898272#464"    cd /Users/liuterence/Desktop/wlinke    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/liuterence/Desktop/wlinke/images/button_pressed.png /Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app0#
+
+CCpResource build/Debug-iphonesimulator/wlinke.app/checkbox_checked.png images/checkbox_checked.png
+s344352392.770202
+e344352392.828214
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/wlinke.app/checkbox_checked.png
+ximages/checkbox_checked.png
+lSLF07#2@32"Copy images/checkbox_checked.png344352392#344352392#0(0"0(0#0#60"/Users/liuterence/Desktop/wlinke/images/checkbox_checked.png8630384032#466"    cd /Users/liuterence/Desktop/wlinke    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/liuterence/Desktop/wlinke/images/checkbox_checked.png /Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app0#
+
+CCpResource build/Debug-iphonesimulator/wlinke.app/checkbox_nor.png images/checkbox_nor.png
+s344352392.771076
+e344352392.828382
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/wlinke.app/checkbox_nor.png
+ximages/checkbox_nor.png
+lSLF07#2@28"Copy images/checkbox_nor.png344352392#344352392#0(0"0(0#0#56"/Users/liuterence/Desktop/wlinke/images/checkbox_nor.png8630923424#462"    cd /Users/liuterence/Desktop/wlinke    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/liuterence/Desktop/wlinke/images/checkbox_nor.png /Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app0#
+
+CCpResource build/Debug-iphonesimulator/wlinke.app/titlebar_focused.png images/titlebar_focused.png
+s344352392.772017
+e344352392.828545
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/wlinke.app/titlebar_focused.png
+ximages/titlebar_focused.png
+lSLF07#2@32"Copy images/titlebar_focused.png344352392#344352392#0(0"0(0#0#60"/Users/liuterence/Desktop/wlinke/images/titlebar_focused.png8633782976#466"    cd /Users/liuterence/Desktop/wlinke    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/liuterence/Desktop/wlinke/images/titlebar_focused.png /Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app0#
+
+CCpResource build/Debug-iphonesimulator/wlinke.app/titlebar_normal.png images/titlebar_normal.png
+s344352392.772901
+e344352392.828793
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/wlinke.app/titlebar_normal.png
+ximages/titlebar_normal.png
+lSLF07#2@31"Copy images/titlebar_normal.png344352392#344352392#0(0"0(0#0#59"/Users/liuterence/Desktop/wlinke/images/titlebar_normal.png8631958656#465"    cd /Users/liuterence/Desktop/wlinke    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/liuterence/Desktop/wlinke/images/titlebar_normal.png /Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app0#
+
+CGenerateDSYMFile /Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app.dSYM /Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app/wlinke
+r0
+
+CLd /Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app/wlinke normal i386
+s344352394.653320
+e344352394.705221
+r0
+xLd
+x/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app/wlinke
+xnormal
+xi386
+oUndefined symbols:
+o  "_kSecReturnData", referenced from:
+o      _kSecReturnData$non_lazy_ptr in SFHFKeychainUtils.o
+o     (maybe you meant: _kSecReturnData$non_lazy_ptr)
+o  "_kSecAttrAccount", referenced from:
+o      _kSecAttrAccount$non_lazy_ptr in SFHFKeychainUtils.o
+o     (maybe you meant: _kSecAttrAccount$non_lazy_ptr)
+o  "_kSecClass", referenced from:
+o      _kSecClass$non_lazy_ptr in SFHFKeychainUtils.o
+o     (maybe you meant: _kSecClassGenericPassword$non_lazy_ptr, _kSecClass$non_lazy_ptr )
+o  "_kSecAttrLabel", referenced from:
+o      _kSecAttrLabel$non_lazy_ptr in SFHFKeychainUtils.o
+o     (maybe you meant: _kSecAttrLabel$non_lazy_ptr)
+o  "_SecItemUpdate", referenced from:
+o      +[SFHFKeychainUtils storeUsername:andPassword:forServiceName:updateExisting:error:] in SFHFKeychainUtils.o
+o  "_kSecReturnAttributes", referenced from:
+o      _kSecReturnAttributes$non_lazy_ptr in SFHFKeychainUtils.o
+o     (maybe you meant: _kSecReturnAttributes$non_lazy_ptr)
+o  "_SecItemAdd", referenced from:
+o      +[SFHFKeychainUtils storeUsername:andPassword:forServiceName:updateExisting:error:] in SFHFKeychainUtils.o
+o  "_kSecClassGenericPassword", referenced from:
+o      _kSecClassGenericPassword$non_lazy_ptr in SFHFKeychainUtils.o
+o     (maybe you meant: _kSecClassGenericPassword$non_lazy_ptr)
+o  "_kSecValueData", referenced from:
+o      _kSecValueData$non_lazy_ptr in SFHFKeychainUtils.o
+o     (maybe you meant: _kSecValueData$non_lazy_ptr)
+o  "_SecItemCopyMatching", referenced from:
+o      +[SFHFKeychainUtils getPasswordForUsername:andServiceName:error:] in SFHFKeychainUtils.o
+o      +[SFHFKeychainUtils getPasswordForUsername:andServiceName:error:] in SFHFKeychainUtils.o
+o  "_SecItemDelete", referenced from:
+o      +[SFHFKeychainUtils deleteItemForUsername:andServiceName:error:] in SFHFKeychainUtils.o
+o  "_kSecAttrService", referenced from:
+o      _kSecAttrService$non_lazy_ptr in SFHFKeychainUtils.o
+o     (maybe you meant: _kSecAttrService$non_lazy_ptr)
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@83"Link /Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app/wlinke344352394#344352394#0(2006"Undefined symbols:  "_kSecReturnData", referenced from:      _kSecReturnData$non_lazy_ptr in SFHFKeychainUtils.o     (maybe you meant: _kSecReturnData$non_lazy_ptr)  "_kSecAttrAccount", referenced from:      _kSecAttrAccount$non_lazy_ptr in SFHFKeychainUtils.o     (maybe you meant: _kSecAttrAccount$non_lazy_ptr)  "_kSecClass", referenced from:      _kSecClass$non_lazy_ptr in SFHFKeychainUtils.o     (maybe you meant: _kSecClassGenericPassword$non_lazy_ptr, _kSecClass$non_lazy_ptr )  "_kSecAttrLabel", referenced from:      _kSecAttrLabel$non_lazy_ptr in SFHFKeychainUtils.o     (maybe you meant: _kSecAttrLabel$non_lazy_ptr)  "_SecItemUpdate", referenced from:      +[SFHFKeychainUtils storeUsername:andPassword:forServiceName:updateExisting:error:] in SFHFKeychainUtils.o  "_kSecReturnAttributes", referenced from:      _kSecReturnAttributes$non_lazy_ptr in SFHFKeychainUtils.o     (maybe you meant: _kSecReturnAttributes$non_lazy_ptr)  "_SecItemAdd", referenced from:      +[SFHFKeychainUtils storeUsername:andPassword:forServiceName:updateExisting:error:] in SFHFKeychainUtils.o  "_kSecClassGenericPassword", referenced from:      _kSecClassGenericPassword$non_lazy_ptr in SFHFKeychainUtils.o     (maybe you meant: _kSecClassGenericPassword$non_lazy_ptr)  "_kSecValueData", referenced from:      _kSecValueData$non_lazy_ptr in SFHFKeychainUtils.o     (maybe you meant: _kSecValueData$non_lazy_ptr)  "_SecItemCopyMatching", referenced from:      +[SFHFKeychainUtils getPasswordForUsername:andServiceName:error:] in SFHFKeychainUtils.o      +[SFHFKeychainUtils getPasswordForUsername:andServiceName:error:] in SFHFKeychainUtils.o  "_SecItemDelete", referenced from:      +[SFHFKeychainUtils deleteItemForUsername:andServiceName:error:] in SFHFKeychainUtils.o  "_kSecAttrService", referenced from:      _kSecAttrService$non_lazy_ptr in SFHFKeychainUtils.o     (maybe you meant: _kSecAttrService$non_lazy_ptr)ld: symbol(s) not foundcollect2: ld returned 1 exit status35(4@35""_kSecReturnData", referenced from:344352394#19#38#0(6@0"344352394#0#0#0#0#0"0(13@51"_kSecReturnData$non_lazy_ptr in SFHFKeychainUtils.o344352394#57#58#0(6@0"344352394#0#0#0#0#0"0(13@47"(maybe you meant: _kSecReturnData$non_lazy_ptr)344352394#115#53#0(6@0"344352394#0#0#0#0#0"0(4@36""_kSecAttrAccount", referenced from:344352394#168#39#0(6@0"344352394#0#0#0#0#0"0(13@52"_kSecAttrAccount$non_lazy_ptr in SFHFKeychainUtils.o344352394#207#59#0(6@0"344352394#0#0#0#0#0"0(13@48"(maybe you meant: _kSecAttrAccount$non_lazy_ptr)344352394#266#54#0(6@0"344352394#0#0#0#0#0"0(4@30""_kSecClass", referenced from:344352394#320#33#0(6@0"344352394#0#0#0#0#0"0(13@46"_kSecClass$non_lazy_ptr in SFHFKeychainUtils.o344352394#353#53#0(6@0"344352394#0#0#0#0#0"0(13@83"(maybe you meant: _kSecClassGenericPassword$non_lazy_ptr, _kSecClass$non_lazy_ptr )344352394#406#89#0(6@0"344352394#0#0#0#0#0"0(4@34""_kSecAttrLabel", referenced from:344352394#495#37#0(6@0"344352394#0#0#0#0#0"0(13@50"_kSecAttrLabel$non_lazy_ptr in SFHFKeychainUtils.o344352394#532#57#0(6@0"344352394#0#0#0#0#0"0(13@46"(maybe you meant: _kSecAttrLabel$non_lazy_ptr)344352394#589#52#0(6@0"344352394#0#0#0#0#0"0(4@34""_SecItemUpdate", referenced from:344352394#641#37#0(6@0"344352394#0#0#0#0#0"0(13@106"+[SFHFKeychainUtils storeUsername:andPassword:forServiceName:updateExisting:error:] in SFHFKeychainUtils.o344352394#678#113#0(6@0"344352394#0#0#0#0#0"0(4@41""_kSecReturnAttributes", referenced from:344352394#791#44#0(6@0"344352394#0#0#0#0#0"0(13@57"_kSecReturnAttributes$non_lazy_ptr in SFHFKeychainUtils.o344352394#835#64#0(6@0"344352394#0#0#0#0#0"0(13@53"(maybe you meant: _kSecReturnAttributes$non_lazy_ptr)344352394#899#59#0(6@0"344352394#0#0#0#0#0"0(4@31""_SecItemAdd", referenced from:344352394#958#34#0(6@0"344352394#0#0#0#0#0"0(13@106"+[SFHFKeychainUtils storeUsername:andPassword:forServiceName:updateExisting:error:] in SFHFKeychainUtils.o344352394#992#113#0(6@0"344352394#0#0#0#0#0"0(4@45""_kSecClassGenericPassword", referenced from:344352394#1105#48#0(6@0"344352394#0#0#0#0#0"0(13@61"_kSecClassGenericPassword$non_lazy_ptr in SFHFKeychainUtils.o344352394#1153#68#0(6@0"344352394#0#0#0#0#0"0(13@57"(maybe you meant: _kSecClassGenericPassword$non_lazy_ptr)344352394#1221#63#0(6@0"344352394#0#0#0#0#0"0(4@34""_kSecValueData", referenced from:344352394#1284#37#0(6@0"344352394#0#0#0#0#0"0(13@50"_kSecValueData$non_lazy_ptr in SFHFKeychainUtils.o344352394#1321#57#0(6@0"344352394#0#0#0#0#0"0(13@46"(maybe you meant: _kSecValueData$non_lazy_ptr)344352394#1378#52#0(6@0"344352394#0#0#0#0#0"0(4@40""_SecItemCopyMatching", referenced from:344352394#1430#43#0(6@0"344352394#0#0#0#0#0"0(13@88"+[SFHFKeychainUtils getPasswordForUsername:andServiceName:error:] in SFHFKeychainUtils.o344352394#1473#95#0(6@0"344352394#0#0#0#0#0"0(13@88"+[SFHFKeychainUtils getPasswordForUsername:andServiceName:error:] in SFHFKeychainUtils.o344352394#1568#95#0(6@0"344352394#0#0#0#0#0"0(4@34""_SecItemDelete", referenced from:344352394#1663#37#0(6@0"344352394#0#0#0#0#0"0(13@87"+[SFHFKeychainUtils deleteItemForUsername:andServiceName:error:] in SFHFKeychainUtils.o344352394#1700#94#0(6@0"344352394#0#0#0#0#0"0(4@36""_kSecAttrService", referenced from:344352394#1794#39#0(6@0"344352394#0#0#0#0#0"0(13@52"_kSecAttrService$non_lazy_ptr in SFHFKeychainUtils.o344352394#1833#59#0(6@0"344352394#0#0#0#0#0"0(13@48"(maybe you meant: _kSecAttrService$non_lazy_ptr)344352394#1892#54#0(6@0"344352394#0#0#0#0#0"0(13@19"Symbol(s) not found344352394#1946#24#0(6@0"344352394#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status344352394#1970#36#0(6@0"344352394#0#0#0#0#0"0(0#0#0"8632259296#865"    cd /Users/liuterence/Desktop/wlinke    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator -F/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator -filelist /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/Objects-normal/i386/wlinke.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app/wlinke1#
+
+CProcessInfoPlistFile /Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app/Info.plist wlinke-Info.plist
+s344352392.760577
+e344352392.764835
+r1
+xProcessInfoPlistFile
+x/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app/Info.plist
+xwlinke-Info.plist
+lSLF07#2@25"Process wlinke-Info.plist344352392#344352392#0(0"0(0#0#50"/Users/liuterence/Desktop/wlinke/wlinke-Info.plist8633296896#458"    cd /Users/liuterence/Desktop/wlinke    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility wlinke-Info.plist -genpkginfo /Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app/Info.plist0#
+
+CProcessPCH /var/folders/cr/crS-ImmYGhWsAAFphBUmEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wlinke_Prefix-cdwgjkjodazdzyexaxiffqxkuphb/wlinke_Prefix.pch.gch wlinke_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s344352393.274126
+e344352394.307534
+r1
+xProcessPCH
+x/var/folders/cr/crS-ImmYGhWsAAFphBUmEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wlinke_Prefix-cdwgjkjodazdzyexaxiffqxkuphb/wlinke_Prefix.pch.gch
+xwlinke_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile wlinke_Prefix.pch344352393#344352394#0(0"0(0#0#50"/Users/liuterence/Desktop/wlinke/wlinke_Prefix.pch8632682752#1727"    cd /Users/liuterence/Desktop/wlinke    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-generated-files.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-own-target-headers.hmap -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-all-target-headers.hmap -iquote /Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/wlinke-project-headers.hmap -F/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator -I/Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/include -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources/i386 -I/Users/liuterence/Desktop/wlinke/build/wlinke.build/Debug-iphonesimulator/wlinke.build/DerivedSources -c /Users/liuterence/Desktop/wlinke/wlinke_Prefix.pch -o /var/folders/cr/crS-ImmYGhWsAAFphBUmEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wlinke_Prefix-cdwgjkjodazdzyexaxiffqxkuphb/wlinke_Prefix.pch.gch0#
+
+CTouch /Users/liuterence/Desktop/wlinke/build/Debug-iphonesimulator/wlinke.app
+r0
+
